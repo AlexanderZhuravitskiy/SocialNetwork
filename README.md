@@ -1,2 +1,2 @@
-# SocialNetwork
+# social-network
  
